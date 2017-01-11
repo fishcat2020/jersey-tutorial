@@ -13,7 +13,6 @@
     <modules>
         <module>my-first-service</module>
         <module>my-first-webapp</module>
-        <module>../myrest-servlet2-webapp</module>
         <module>myrest-servlet2-webapp</module>
         <module>myrest-servlet3-webapp</module>
         <module>myrest-subservlet</module>
