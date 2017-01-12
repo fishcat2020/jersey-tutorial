@@ -17,6 +17,9 @@
         <module>myrest-servlet3-webapp</module>
         <module>myrest-subservlet</module>
         <module>myrest-servlet3-application</module>
+        <module>myrest-servlet2-rc</module>
+        <module>myrest-servlet3-application-nopath</module>
+        <module>myrest-servlet-application-np</module>
     </modules>
 
 
